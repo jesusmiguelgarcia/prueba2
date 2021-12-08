@@ -7,4 +7,4 @@ programador
 conclusion 
 - problemas con git
 
-prueba2
+prueba2 .
